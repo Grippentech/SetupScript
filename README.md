@@ -18,6 +18,9 @@ It will help setup a general dev. environment with Z Shell and Sublime Text as w
 * Powerline Fonts
 * Python and Pip
 * Google Chrome
+* Ubuntu Restricted Extras (Media codecs, etc.)
+* Unity Tweak Tool
+* Gdebi Package Manager (Better, more Light-Weight Alternative to Ubuntu Software Center)
 
 #### For Kernel Development:
 
@@ -33,3 +36,8 @@ It will help setup a general dev. environment with Z Shell and Sublime Text as w
 * Ruby-Dev (Required for building Native Gems like Jekyll, Nokogiri etc.)
 * Jekyll
 * The Bundler Plugin (Which can then be used to install all dependencies via "bundle install" command within the project.)
+
+#### Other Features:
+
+* Removes Amazon Icon (at least temporarily... need to investigate this further)
+* Disables Ubuntu Online Search

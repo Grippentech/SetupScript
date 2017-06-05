@@ -56,3 +56,19 @@ sudo apt-get install ruby-dev -y
 sudo gem install bundler
 sudo gem install jekyll
 #Well not it's a matter of running "bundle install" on tour website to install all other gem dependencies
+
+#Now let's get media codecs and othe features via Ubuntu Restricted Extras
+sudo apt-get install ubuntu-restricted-extras -y
+
+#Now a lightweight deb pkg manager aka gdebi, since it's better at handling dependencies and more lightweight than the default ubuntu one
+sudo apt-get install gdebi -y
+
+#Now let's remove the stupid Amazon integration, although this package gets reinstalled by unity-tweak-tool, seems to keep Amazon off the device
+sudo apt-get remove unity-webapps-common -y
+
+#Unity Tweak Tool, I'm not using stock Unity without it
+sudo apt-get install unity-tweak-tool -y
+
+#Now stop Ubuntu from searching online, making it more responsive and privacy conscious
+/bin/bash -c "gsettings set com.canonical.Unity.Lenses remote-content-search 'none'"
+#Now that I'm fairly sure it's fine that it's running under bash and not ZSH here. 
