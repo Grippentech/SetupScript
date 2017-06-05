@@ -5,7 +5,7 @@ It will help setup a general dev. environment with Z Shell and Sublime Text as w
 
 ![terminal](https://cloud.githubusercontent.com/assets/7153954/26794475/cde703d4-49ef-11e7-9c97-eadaf8bda0b2.png)
 
-### The Package Installs:
+### The Script Installs:
 
 #### General Packages:
 
