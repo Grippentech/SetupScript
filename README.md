@@ -14,7 +14,7 @@ It will help setup a general dev. environment with Z Shell and Sublime Text as w
 * Wget (if not availeable by default)
 * Net Tools
 * Sublime Text
-* Zsh (and Oh-My-Zsh, using the Agnoster theme)
+* Z Shell (and Oh-My-Zsh, using the Agnoster theme)
 * Powerline Fonts
 * Python and Pip
 * Google Chrome
