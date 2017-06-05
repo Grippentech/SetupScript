@@ -50,3 +50,9 @@ sudo apt-get install google-chrome-stable
 #Now let's get some kernel tools downloaded, this is about 1.6GB+ so only install it if you need it 
 sudo apt-get install build-essential kernel-package fakeroot libncurses5-dev libssl-dev ccache -y
 
+#Now let's get Jekyll and Bundler installed properly.
+#For now we assume Ruby 2.1.0 or higher is already installed, if this assumption proves wrong, this may need to change
+sudo apt-get install ruby-dev -y
+sudo gem install bundler
+sudo gem install jekyll
+#Well not it's a matter of running "bundle install" on tour website to install all other gem dependencies

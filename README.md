@@ -1,6 +1,8 @@
 # SetupScript
 #### Ubuntu Startup Script designed to install some of the basic tools that I use and setup my desktop environment.
 
+It will help setup a general dev. environment with Z Shell and Sublime Text as well as specific tools for building Jekyll Powered Websites and custom versions of the Linux Kernel.
+
 ![terminal](https://cloud.githubusercontent.com/assets/7153954/26794475/cde703d4-49ef-11e7-9c97-eadaf8bda0b2.png)
 
 ### The Package Installs:
@@ -28,4 +30,6 @@
 
 #### For Ruby and Jekyll Work:
 
-* TO DO
+* Ruby-Dev (Required for building Native Gems like Jekyll, Nokogiri etc.)
+* Jekyll
+* The Bundler Plugin (Which can then be used to install all dependencies via "bundle install" command within the project.)
