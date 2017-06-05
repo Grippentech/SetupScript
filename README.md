@@ -21,6 +21,7 @@ It will help setup a general dev. environment with Z Shell and Sublime Text as w
 * Ubuntu Restricted Extras (Media codecs, etc.)
 * Unity Tweak Tool
 * Gdebi Package Manager (Better, more Light-Weight Alternative to Ubuntu Software Center)
+* Guake Terminal (dropdown terminal)
 
 #### For Kernel Development:
 

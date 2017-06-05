@@ -47,6 +47,10 @@ sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable
 sudo apt-get update
 sudo apt-get install google-chrome-stable
 
+#Now let's install Guake Term so I can get a nice dropdown terminal
+sudo apt-get install guake -y
+
+
 #Now let's get some kernel tools downloaded, this is about 1.6GB+ so only install it if you need it 
 sudo apt-get install build-essential kernel-package fakeroot libncurses5-dev libssl-dev ccache -y
 
