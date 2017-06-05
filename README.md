@@ -1,7 +1,7 @@
 # SetupScript
-#### Ubuntu Startups Script designed to install some of the basic tools that I use and setup my desktop environment.
+#### Ubuntu Startup Script designed to install some of the basic tools that I use and setup my desktop environment.
 
-![zsh](https://cloud.githubusercontent.com/assets/7153954/26794198/c05c41a8-49ee-11e7-80e6-1050b4e61d2c.png)
+![terminal](https://cloud.githubusercontent.com/assets/7153954/26794475/cde703d4-49ef-11e7-9c97-eadaf8bda0b2.png)
 
 ### The Package Installs:
 
