@@ -42,3 +42,7 @@ It will help setup a general dev. environment with Z Shell and Sublime Text as w
 
 * Removes Amazon Icon (at least temporarily... need to investigate this further)
 * Disables Ubuntu Online Search
+
+Now featuring a Mac Version! (kinda)
+
+<img width="1094" alt="screen shot 2017-06-07 at 7 37 28 pm" src="https://user-images.githubusercontent.com/7153954/26906088-ead4358c-4bb8-11e7-9d02-ed07d0727164.png">
